@@ -8,3 +8,6 @@ How to test
 02. Unzip
 03. Open folder
 04. Double click on gui.exe
+
+
+Download link = https://drive.google.com/file/d/1L5HWtxnezuTryP8DNiFDSy5qT-NbcG1E/view?usp=drive_link
